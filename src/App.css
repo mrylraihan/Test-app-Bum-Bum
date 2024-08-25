@@ -1,0 +1,25 @@
+.app {
+  margin: 3rem auto;
+  width: 70rem;
+  padding: 1rem;
+  background: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 10px;
+  /* text-align: center; */
+}
+
+.app h1 {
+  /* margin: 0; */
+  background-color: lightblue;
+  /* text-align: center; */
+}
+
+.container{
+  display: flex;
+  justify-content: space-between;
+}
+
+.flow{
+  display: flex;
+  flex-direction:column 
+}
